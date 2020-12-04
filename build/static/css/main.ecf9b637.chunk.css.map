@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,UACE,mBAAqB,CACrB,6BACF,CAEA,gBACE,mBACF","file":"main.ecf9b637.chunk.css","sourcesContent":[".gravatar {\n  transform: scale(0.8);\n  transition: transform 0.5s ease;\n}\n\n.gravatar:hover {\n  transform: scale(0.9);\n}\n"]}
